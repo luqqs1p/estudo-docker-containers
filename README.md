@@ -1,9 +1,6 @@
 # estudo-docker-containers
 Estudo dirigido sobre Docker e containerização
 
-# estudo-docker-containers
-Estudo dirigido sobre Docker e containerização
-
 # Estudo Docker - Containers
 
 ## Sobre
